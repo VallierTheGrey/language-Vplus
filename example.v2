@@ -1,5 +1,5 @@
 .PROGRAM a.program()
-; ABSTRACT: Example of V+ language
+; ABSTRACT: Example of eV+ language
 ;
 ; INPUTS: NONE
 ;
@@ -9,9 +9,9 @@
 ;
 ; DATA STRUCT:  NONE
 ;
-; MISC:  This is just an example of the V+ language. DO NOT attempt to run on
-;		     an actual Adept controller.
+; MISC:  This is just an example of the eV+ language. DO NOT attempt to run.
 ;
+; Currently Outdated, will be updated w/ eV+ example.
 
 	DETACH ()
 
